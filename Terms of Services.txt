@@ -1,1 +1,113 @@
-tmkc
+Terms of Service for Rexor Bot
+Effective Date: Soon
+
+Welcome to Rexor — a powerful multipurpose Discord bot designed to enhance your server's moderation, security, engagement, and entertainment.
+
+By inviting or using Rexor in your Discord server, you agree to the following Terms of Service. If you do not agree with these terms, please do not use Rexor.
+
+1. Bot Overview
+Rexor offers various features including but not limited to:
+
+Antinuke & Server Protection
+
+Auto Moderation & Logging
+
+Manual Moderation Tools (Kick, Ban, Mute, etc.)
+
+Utility Commands (User Info, Server Info, Snipe, etc.)
+
+Role Management & Auto Roles
+
+Voice Channel Features
+
+Games & Fun Commands
+
+Giveaways
+
+2. Usage Requirements
+You must be at least 13 years old (or the minimum age required by Discord's Terms of Service in your country).
+
+You must have the appropriate administrative permissions in the server to invite or configure the bot.
+
+You must not use Rexor for malicious purposes, such as harassment, data mining, or abuse of other users.
+
+3. Data Collection & Privacy
+Rexor only stores necessary data required for its functionality. This may include:
+
+Server IDs
+
+User IDs
+
+Role IDs
+
+Channel IDs
+
+Configuration settings (e.g., prefix, auto-mod rules)
+
+Temporary logs for moderation or command usage
+
+We do NOT collect:
+
+Direct messages
+
+Sensitive personal information
+
+All stored data is used solely to provide bot functionality and is not shared with third parties unless legally required.
+
+For full details, please refer to our Privacy Policy (Add link if available).
+
+4. Prohibited Use
+You agree NOT to use Rexor to:
+
+Violate Discord’s Terms of Service or Community Guidelines
+
+Spam commands or attempt to exploit or break features
+
+Perform any action that could harm the bot's functionality or its hosting infrastructure
+
+Bypass permissions, bans, or moderation
+
+5. Bot Uptime & Availability
+Rexor is provided "as is" with no guarantee of 24/7 uptime. While we strive for high availability, maintenance, hosting issues, or updates may cause downtime.
+
+We are not liable for any damage, loss of data, or disruption caused by:
+
+Outages
+
+Bugs
+
+Unintended behavior
+
+6. Liability & Disclaimer
+The developers and maintainers of Rexor are not liable for any misuse or damage caused by the bot or its users.
+
+You acknowledge that features such as moderation or automod may affect user experience and should be configured carefully.
+
+Use Rexor at your own risk.
+
+7. Termination of Access
+We reserve the right to:
+
+Blacklist a server or user from using Rexor
+
+Restrict or remove access to specific features
+
+Shut down or remove the bot without prior notice
+
+This may happen in cases of:
+
+Violation of these Terms
+
+Abuse of features
+
+Legal or technical issues
+
+8. Changes to Terms
+These Terms of Service may be updated from time to time. Continued use of the bot after changes implies acceptance of the updated terms. We recommend checking back periodically.
+
+9. Contact
+For support, feedback, or questions regarding these Terms of Service:
+
+Discord Support Server: https://discord.gg/TdKzn3XJSr
+
+Rexor is an independent community tool and is not affiliated with Discord Inc.

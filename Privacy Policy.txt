@@ -1,1 +1,107 @@
-tmkl
+Privacy Policy for Rexor Bot
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+Rexor ("we", "us", "our") is a multipurpose Discord bot that offers moderation, utility, protection, entertainment, and server management features. We value your privacy and are committed to protecting your data.
+
+This Privacy Policy explains what data we collect, how we use it, how we store it, and your rights regarding your information.
+
+1. Information We Collect
+Rexor collects only the minimum data necessary to function effectively. We do not collect or store personal content like direct messages or any confidential user data.
+
+We may collect:
+Server (Guild) IDs
+
+User IDs (only when commands are used or required for config)
+
+Channel IDs (for logging, auto-mod, or configuration)
+
+Role IDs (for role-related features)
+
+Bot configuration settings (prefix, logging channels, automod settings, etc.)
+
+Moderation Logs (optional if enabled by server admins)
+
+Message content for specific commands (e.g., say, poll) — not stored permanently
+
+Command usage logs (optional, for debugging or abuse prevention)
+
+We do not store:
+
+Direct messages (DMs)
+
+Emails or names
+
+IP addresses
+
+Voice recordings
+
+Passwords
+
+2. How We Use the Data
+We use the collected data strictly to:
+
+Provide and customize bot features per server
+
+Execute moderation and automod actions
+
+Track giveaways, polls, or games
+
+Store configuration preferences
+
+Improve bot performance and detect abuse
+
+We do not sell, share, or rent user data to any third parties.
+
+3. Data Storage & Security
+Data is stored on secure servers with limited access.
+
+Configuration and logs are retained only as long as necessary.
+
+Regular backups and security checks are performed.
+
+If Rexor is removed from your server, all associated data may be deleted after a short grace period.
+
+4. Data Sharing
+We will never share or disclose your data unless:
+
+Required by law (e.g., legal request or investigation)
+
+Necessary to protect the integrity or safety of the bot or its users
+
+Consent is explicitly given by the server owner/admin
+
+5. User and Server Rights
+As a user or server administrator, you have the right to:
+
+Access: Request to view the data stored related to your server or user.
+
+Correction: Request updates or corrections to stored data.
+
+Deletion: Request deletion of your server's or user’s data.
+
+Opt-Out: Disable features that require data logging (e.g., moderation logs).
+
+To exercise these rights, please contact us via the contact info below.
+
+6. Children’s Privacy
+Rexor is not intended for children under 13. We do not knowingly collect data from users below this age in compliance with Discord’s Terms of Service.
+
+7. Third-Party Services
+Rexor may use third-party services (such as hosting providers, databases, or APIs). These services are subject to their own privacy policies and are carefully selected for security and reliability.
+
+8. Policy Updates
+We may update this Privacy Policy periodically. Users will be notified of major changes via:
+
+Our support Discord server
+
+Bot announcements (if applicable)
+
+Continued use of Rexor after such updates implies acceptance of the revised policy.
+
+9. Contact Us
+If you have questions or requests related to your data or this policy:
+
+Discord Support Server: https://discord.gg/TdKzn3XJSr
+
+Rexor is an independent bot not affiliated with or endorsed by Discord Inc.
